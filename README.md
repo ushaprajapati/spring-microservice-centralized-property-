@@ -1,1 +1,1 @@
-# spring-microservice-centralized-property-
+# spring-microservice-centralized-property
